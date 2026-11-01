@@ -5,11 +5,12 @@
 
 
 
+
 <h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thezaeempire&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezaeempire&layout=compact&theme=github_dark&hide_border=true&bg_color=000000" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=thezaeempire&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thezaeempire&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="165" />
 </p>
 
 
