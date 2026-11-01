@@ -1,8 +1,7 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thezaeempire/thezaeempire/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/thezaeempire/thezaeempire/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-## Hi there 👋
 
 <!--
 **thezaeempire/thezaeempire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
