@@ -1,51 +1,18 @@
 # HEY, I'M ZAEEM 👋
 
-Building things. Breaking things. Learning every day.
+I'm a student developer who loves turning random ideas into something real. I enjoy experimenting with technology, solving problems, building projects and exploring what's possible with code.
 
-🟢 Open to collaborations
+I'm particularly interested in **Artificial Intelligence, Machine Learning and Full-Stack Development**. Always curious, always learning, and usually working on something new.
 
----
+- 🏆 2× Hackathon Winner
+- 🤖 Exploring AI/ML and emerging technologies
+- 💻 Building web applications and real-world solutions
+- 🐍 Currently sharpening my Python skills
+- 🧠 Love experimenting, collaborating and learning by building
 
-## ABOUT ME
+I believe the best way to learn something is to build it, break it, and build it better.
 
-🎓 Student developer | AI & ML enthusiast
-
-🏆 Hackathon winner × 2
-
-💡 Interested in building real-world solutions
-
-🐍 Currently mastering Python
-
----
-
-## TECH STACK
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## FEATURED PROJECTS
-
-↗ AI-powered applications
-
-↗ Hackathon projects
-
-↗ Open-source experiments
-
----
-
-## CONNECT WITH ME
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thezaeempire)
-
----
+**Always building. Always evolving. 🚀**
 
 <p align="center">
   <i>LET'S BUILD SOMETHING COOL.</i>
